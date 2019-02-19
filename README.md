@@ -1,5 +1,7 @@
 # StanfordDaily mobile app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TheStanfordDaily/StanfordDaily_Mobile.svg)](https://greenkeeper.io/)
+
 # Setup
 ```
 npm i
